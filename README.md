@@ -18,7 +18,7 @@ The plugin supports hot-loading, which means you can install and use it without 
 
 ```lua
 use {
-  'your-username/cross-buffer-highlight',
+  'pradhyu/cross-buffer-highlight',
   config = function()
     require('cross-buffer-highlight').setup()
   end
@@ -29,7 +29,7 @@ use {
 
 ```lua
 {
-  'your-username/cross-buffer-highlight',
+  'pradhyu/cross-buffer-highlight',
   config = function()
     require('cross-buffer-highlight').setup()
   end
